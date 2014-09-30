@@ -17,7 +17,7 @@
         <keycloak.apache.httpcomponents.version>4.3.5</keycloak.apache.httpcomponents.version>
         <resteasy.version>3.0.9.Final</resteasy.version>
         <undertow.version>1.0.15.Final</undertow.version>
-        <picketlink.version>2.7.0.Beta1</picketlink.version>
+        <picketlink.version>2.7.0.Beta2</picketlink.version>
         <picketbox.ldap.version>1.0.2.Final</picketbox.ldap.version>
         <mongo.driver.version>2.11.3</mongo.driver.version>
         <jboss.logging.version>3.1.4.GA</jboss.logging.version>
